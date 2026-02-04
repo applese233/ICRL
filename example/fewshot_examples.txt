@@ -1,0 +1,64 @@
+===============Example 1===============
+Example Problem: Who was the first woman to win a Nobel Prize?
+
+Example Solution: <think> I need to find information about the first woman to win a Nobel Prize. This is a historical fact that requires specific knowledge. </think> <search> first woman to win Nobel Prize </search>
+<information>
+Marie Curie was the first woman to win a Nobel Prize. She won the Nobel Prize in Physics in 1903, sharing it with her husband Pierre Curie and Henri Becquerel for their joint research on the radiation phenomena discovered by Becquerel. In 1911, Curie won her second Nobel Prize, this time in Chemistry, for her discovery of the elements radium and polonium. She was the first person ever to win Nobel Prizes in two different scientific fields, and remains the only woman to have won in two different scientific fields.
+</information>
+<think> The search results clearly indicate that Marie Curie was the first woman to win a Nobel Prize. She won the Nobel Prize in Physics in 1903, sharing it with her husband Pierre Curie and Henri Becquerel. </think> <answer> Marie Curie </answer>
+
+===============Example 2===============
+Example Problem: Which actor who played in the movie "The Godfather" also appeared in a film directed by Francis Ford Coppola that was based on a novel by Mario Puzo?
+
+Example Solution: <think> I need to find actors from "The Godfather" who also appeared in other films directed by Francis Ford Coppola based on Mario Puzo novels. First, I'll search for the main cast of "The Godfather". </think> <search> The Godfather main cast actors </search>
+<information>
+The main cast of "The Godfather" (1972) includes:
+- Marlon Brando as Vito Corleone
+- Al Pacino as Michael Corleone
+- James Caan as Sonny Corleone
+- Robert Duvall as Tom Hagen
+- Diane Keaton as Kay Adams
+- Talia Shire as Connie Corleone
+- Abe Vigoda as Sal Tessio
+- Sterling Hayden as Captain McCluskey
+- John Cazale as Fredo Corleone
+- Richard Castellano as Clemenza
+</information>
+<think> Now I need to find which films directed by Francis Ford Coppola were based on Mario Puzo novels. </think> <search> Francis Ford Coppola films based on Mario Puzo novels </search>
+<information>
+Francis Ford Coppola directed several films related to Mario Puzo's work:
+1. "The Godfather" (1972) - based on Puzo's 1969 novel
+2. "The Godfather Part II" (1974) - based on characters created by Puzo
+3. "The Godfather Part III" (1990) - based on characters created by Puzo
+4. "The Cotton Club" (1984) - co-written by Puzo, though not based on a specific novel
+
+Mario Puzo was directly involved in writing the screenplays for all three Godfather films with Coppola.
+</information>
+<think> I see that Coppola directed "The Godfather Part II" and "The Godfather Part III" which were based on characters created by Puzo. Now I need to check which actors from the original "The Godfather" appeared in these sequels. </think> <search> The Godfather Part II and Part III cast overlap with original </search>
+<information>
+Several actors from "The Godfather" appeared in the sequels:
+
+"The Godfather Part II" (1974):
+- Al Pacino as Michael Corleone
+- Robert Duvall as Tom Hagen
+- Diane Keaton as Kay Adams
+- Talia Shire as Connie Corleone
+- John Cazale as Fredo Corleone
+
+"The Godfather Part III" (1990):
+- Al Pacino as Michael Corleone
+- Diane Keaton as Kay Adams
+- Talia Shire as Connie Corleone
+
+Al Pacino, Diane Keaton, and Talia Shire appeared in all three films.
+</information>
+<think> Based on the search results, several actors from "The Godfather" appeared in the sequels directed by Coppola and based on Puzo's work. Al Pacino, Robert Duvall, Diane Keaton, Talia Shire, and John Cazale appeared in "The Godfather Part II", while Al Pacino, Diane Keaton, and Talia Shire appeared in "The Godfather Part III". Therefore, actors such as Al Pacino, Diane Keaton, Talia Shire, Robert Duvall, or John Cazale would all be correct answers to the question. </think> <answer> Al Pacino </answer>
+
+===============Example 3===============
+Example Problem: What is the boiling point of tungsten in Celsius?
+
+Example Solution: <think> I need to find the boiling point of tungsten in Celsius. This is a scientific fact that requires specific knowledge. </think> <search> tungsten boiling point Celsius </search>
+<information>
+Tungsten (symbol W, atomic number 74) has one of the highest boiling points of all elements. The boiling point of tungsten is 5,555°C (10,031°F). This makes it useful for applications requiring materials with extremely high melting and boiling points, such as in light bulb filaments, electron tubes, and spacecraft components. Tungsten also has the highest melting point of all pure elements at 3,422°C (6,192°F).
+</information>
+<think> The search results clearly state that the boiling point of tungsten is 5,555°C. </think> <answer> 5,555°C </answer>

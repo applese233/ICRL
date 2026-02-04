@@ -1,0 +1,38 @@
+# Core ML
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.4.0
+torchvision==0.19.0
+transformers==4.47.1
+vllm==0.6.3
+
+# RL Training
+accelerate
+ray==2.51.2
+tensordict==0.10.0
+hydra-core==1.3.2
+
+# Data
+datasets
+pandas
+numpy
+dill
+
+# Utilities
+codetiming
+wandb
+pybind11
+einops
+safetensors
+
+# Search Server
+fastapi
+uvicorn
+requests
+httpx
+
+# Evaluation
+IPython
+matplotlib
+
+# Optional: Flash Attention (install separately)
+# pip install flash-attn --no-build-isolation
